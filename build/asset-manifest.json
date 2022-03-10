@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.def877c0.chunk.css",
-    "main.js": "/static/js/main.0e7ef760.chunk.js",
-    "main.js.map": "/static/js/main.0e7ef760.chunk.js.map",
+    "main.js": "/static/js/main.cbffd5cd.chunk.js",
+    "main.js.map": "/static/js/main.cbffd5cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8de2a36e.js",
     "runtime-main.js.map": "/static/js/runtime-main.8de2a36e.js.map",
     "static/css/2.917fa12d.chunk.css": "/static/css/2.917fa12d.chunk.css",
-    "static/js/2.dd612ea3.chunk.js": "/static/js/2.dd612ea3.chunk.js",
-    "static/js/2.dd612ea3.chunk.js.map": "/static/js/2.dd612ea3.chunk.js.map",
+    "static/js/2.48b0ecd8.chunk.js": "/static/js/2.48b0ecd8.chunk.js",
+    "static/js/2.48b0ecd8.chunk.js.map": "/static/js/2.48b0ecd8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.917fa12d.chunk.css.map": "/static/css/2.917fa12d.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.dd612ea3.chunk.js.LICENSE.txt": "/static/js/2.dd612ea3.chunk.js.LICENSE.txt",
+    "static/js/2.48b0ecd8.chunk.js.LICENSE.txt": "/static/js/2.48b0ecd8.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/static/media/AboutUsPage.c9232ae2.jpeg",
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/static/media/BlogIndexPage.0f03fbdc.jpeg",
     "static/media/ContactUsPage.27145629.jpeg": "/static/media/ContactUsPage.27145629.jpeg",
@@ -43,8 +43,8 @@
     "static/media/email-newsletter-icon.9dc37655.svg": "/static/media/email-newsletter-icon.9dc37655.svg",
     "static/media/facebook-icon.8f6512c4.svg": "/static/media/facebook-icon.8f6512c4.svg",
     "static/media/fast-icon.dbb971a7.svg": "/static/media/fast-icon.dbb971a7.svg",
+    "static/media/girl-illustration.28c5f19a.svg": "/static/media/girl-illustration.28c5f19a.svg",
     "static/media/github-icon.2012dbb2.svg": "/static/media/github-icon.2012dbb2.svg",
-    "static/media/hero-screenshot-2.241aac1f.png": "/static/media/hero-screenshot-2.241aac1f.png",
     "static/media/linkedin-icon.962df6ce.svg": "/static/media/linkedin-icon.962df6ce.svg",
     "static/media/log-in.svg": "/static/media/log-in.26463742.svg",
     "static/media/login-illustration.39a64f78.svg": "/static/media/login-illustration.39a64f78.svg",
@@ -87,8 +87,8 @@
   "entrypoints": [
     "static/js/runtime-main.8de2a36e.js",
     "static/css/2.917fa12d.chunk.css",
-    "static/js/2.dd612ea3.chunk.js",
+    "static/js/2.48b0ecd8.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.0e7ef760.chunk.js"
+    "static/js/main.cbffd5cd.chunk.js"
   ]
 }
